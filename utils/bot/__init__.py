@@ -1,0 +1,1 @@
+from .bot_send_document import bot
